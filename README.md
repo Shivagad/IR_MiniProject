@@ -25,13 +25,13 @@ The summarizer uses the **BART transformer model** (`facebook/bart-large-cnn`) f
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Shivagad/IR_MiniProject.git
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd document-summarizer
+cd IR_MiniProject
 ```
 
 3. Install required libraries:
