@@ -70,7 +70,8 @@ streamlit run app.py
 
 Below is a screenshot of the application interface:
 
-![App Screenshot](replace-with-your-screenshot-url)
+![App Screenshot](result.jpg)
+
 
 * The summary is displayed below the input.
 * Users can **download the summarized content** using the download button.
