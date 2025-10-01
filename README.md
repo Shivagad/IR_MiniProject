@@ -70,7 +70,7 @@ streamlit run app.py
 
 Below is a screenshot of the application interface:
 
-![App Screenshot](result.jpg)
+![App Screenshot](result.png)
 
 
 * The summary is displayed below the input.
